@@ -2,12 +2,12 @@
 /**
  * main - print _putchar
  *
- * return: Always  0(Success)
+ * return: Always  0 (Success)
  */
 
 int main(void)
 {
-	_pupcher('_');
+	_putchar('_');
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
