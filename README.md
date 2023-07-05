@@ -1,1 +1,2 @@
-This is a repository on C programming language
+This repository contains programs written for the low-level programming and algorithm track at ALX.
+
