@@ -15,5 +15,6 @@ oclean:
 	$(RM) $(OBJ)
 
 clean :
-	$(RM ) $(TOCLEAN) $(NAME)
+	$(RM) $(TOCLEAN) $(NAME)
 re: oclean all
+
