@@ -11,5 +11,8 @@ all : $(OBJ)
 fclean: oclean clean
 
 oclean:
+	$(RM) $(OBJ)
+
+clean :
 	$(RM) $(TOCLEAN) $(NAME)
 re: oclean all
